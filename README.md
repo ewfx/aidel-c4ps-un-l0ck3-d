@@ -24,6 +24,9 @@ RiskUnlocked is an AI-powered risk assessment tool that evaluates financial tran
 ## 🎥 Demo
 
 - **Video Demo & Presentation:** <a href="https://drive.google.com/drive/folders/1hk9UkXrGIBqL4HfYd1NJ_XpRCUBWUcbS?usp=sharing" target="_blank">📂 Google Drive</a>  
+- **Screenshots:**
+![Output1](./artifacts/images/output1.png)
+![Output2](./artifacts/images/output2.png)
 ---
 
 ## 💡 Inspiration
