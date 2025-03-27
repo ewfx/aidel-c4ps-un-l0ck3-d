@@ -23,10 +23,11 @@ RiskUnlocked is an AI-powered risk assessment tool that evaluates financial tran
 
 ## 🎥 Demo
 
-- **Video Demo & Presentation:** <a href="https://drive.google.com/drive/folders/1hk9UkXrGIBqL4HfYd1NJ_XpRCUBWUcbS?usp=sharing" target="_blank">📂 Google Drive</a>  
+- **Video Demo:** <a href="https://drive.google.com/drive/folders/1hk9UkXrGIBqL4HfYd1NJ_XpRCUBWUcbS?usp=sharing" target="_blank">📂 Google Drive</a>  
 - **Screenshots:**
 ![Output1](./artifacts/images/output1.png)
 ![Output2](./artifacts/images/output2.png)
+- **Presentation:** The presentation pdf file has been added in the `/artifacts` directory.
 ---
 
 ## 💡 Inspiration
@@ -47,7 +48,7 @@ With increasing financial fraud, money laundering, and sanction evasions, organi
   Cross-checks entities with OFAC, UN, FATF, EU, and OpenSanctions API.
 
 - **🤖 AI Chatbot:**  
-  Provides an interactive risk assessment chatbot using Ollama (Mistral-7B) and Gemini LLM, enhanced with text-to-speech (TTS) support for voice-based responses.
+  Provides an interactive risk assessment chatbot using Ollama (Mistral-7B) and Gemini LLM
 
 - **🔎 Entity Recognition:**  
   Extracts company details using NER-based classification.
@@ -121,7 +122,6 @@ With increasing financial fraud, money laundering, and sanction evasions, organi
    - ✅ **Intuitive UI** loads seamlessly  
    - ✅ **Comprehensive Entity Analysis, Entity Extraction, Entity Classification & Risk Scoring** performed in real-time  
    - ✅ **AI-Powered Chatbot with Voice Assistance** for instant risk assessment and insights
-   - ✅ **Seamless Text-to-Speech (TTS) Support** allowing the chatbot to read responses aloud  
    - ✅ **Real-Time News Sentiment Analysis** to assess potential red flags related to extracted entities  
    - ✅ **Geo Risk Evaluation** based on CPI, AML, GTI, and FATF compliance for entities' operating regions  
    - ✅ **Sector Classification** to determine industries linked to extracted entities  
@@ -176,4 +176,4 @@ With increasing financial fraud, money laundering, and sanction evasions, organi
 
 - ✅ Integrate GPT-4 Turbo for better chatbot interaction  
 - ✅ Deploy on cloud infrastructure (AWS/GCP)
-- ✅ Expand chatbot’s voice assistant capabilities with multilingual TTS support
+- ✅ Expand chatbot’s capabilities with multilingual TTS support
